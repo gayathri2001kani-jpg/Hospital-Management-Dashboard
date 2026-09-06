@@ -1,7 +1,46 @@
-Hospital Management Dashboard
+Hospital Management Dashboard Using Excel
 
-I created a Hospital Management Dashboard to provide a centralized and user-friendly interface for managing and monitoring hospital operations. The dashboard displays important information such as total patients, doctors, appointments, admissions, discharges, departments, and billing details in a clear and organized format.
+This project is an interactive Hospital Management Dashboard developed using Microsoft Excel to analyze and visualize hospital data effectively. The dashboard provides meaningful insights into patient records, hospital performance, admissions, discharges, departments, and other key healthcare metrics.
 
-I designed the dashboard with interactive cards, charts, tables, and navigation sections to make hospital data easy to understand and access. The system helps hospital staff monitor daily activities, manage patient information, track appointments, and view important statistics efficiently.
+Project Overview
 
-The main goal of this project was to create a simple, responsive, and visually informative dashboard that improves hospital management and reduces the effort required to handle operational data manually.
+The dashboard transforms raw hospital data into an easy-to-understand visual report using Excel Pivot Tables, Pivot Charts, slicers, formulas, and interactive visualizations. It helps hospital administrators and management monitor important operational and patient-related information and make data-driven decisions.
+
+Key Features
+
+📊 Interactive hospital management dashboard
+🏥 Patient admission and discharge analysis
+👨‍⚕️ Department-wise performance analysis
+👥 Patient demographic insights
+📈 Key Performance Indicators (KPIs)
+📅 Date-wise and trend analysis
+🔎 Interactive filters and slicers
+📋 Pivot tables and charts for data analysis
+🎨 User-friendly and professional dashboard design
+
+Tools & Technologies
+
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Excel Formulas
+Slicers
+Data Cleaning & Transformation
+Data Visualization
+
+Objectives
+
+Analyze hospital and patient-related data efficiently.
+Track important healthcare KPIs.
+Identify trends and patterns in hospital operations.
+Provide management with an interactive reporting solution.
+Demonstrate practical Excel data analytics and visualization skills.
+
+Project Outcome
+
+The final dashboard provides a centralized and interactive view of hospital data, making it easier to monitor performance, understand patient trends, and support data-driven decision-making.
+
+Skills Demonstrated
+
+Excel | Data Analysis | Data Visualization | Dashboard Development | Pivot Tables | Pivot Charts | Data Cleaning | Business Intelligence
+
