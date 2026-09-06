@@ -45,20 +45,6 @@ It provides a centralized and interactive view of key healthcare metrics, helpin
 - 📋 Pivot Tables and Pivot Charts
 - 🎨 User-friendly and professional dashboard design
 
----
-
-## 🔄 Project Workflow
-
-```text
-Raw Hospital Data
-        ↓
-Data Cleaning & Transformation
-        ↓
-Pivot Tables & Calculations
-        ↓
-Pivot Charts & Visualizations
-        ↓
-Slicers & Interactive Filters
 ## 📸 Dashboard Preview
 
 ![Hospital Operations Dashboard](Hospital_Operations_Dashboard.png)
@@ -90,5 +76,7 @@ The final dashboard provides a **centralized and interactive view of hospital da
 Aspiring Data Analyst
 
 **Skills:** Excel | SQL | Power BI | Python
-        ↓
-Hospital Management Dashboard
+
+
+
+
