@@ -47,7 +47,7 @@ It provides a centralized and interactive view of key healthcare metrics, helpin
 
 ## 📸 Dashboard Preview
 
-![Hospital Operations Dashboard](Hospital_Operations_Dashboard.png)
+![Hospital Operations Dashboard](Hospital_Management_Dashboard.png)
 
 ## 🔍 Analysis Performed
 
